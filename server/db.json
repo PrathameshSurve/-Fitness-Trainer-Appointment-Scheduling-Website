@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "id": "4",
+      "name": "Harish Kundra",
+      "location": "Swargate",
+      "date": "2023-12-20T21:27",
+      "mobile": "9876678909",
+      "address": "At-Purlkal, Warna"
+    },
+    {
+      "id": "6",
+      "name": "Akshay Kumar",
+      "location": "Mumbai",
+      "date": "2023-12-10T04:06",
+      "mobile": "8899889988",
+      "address": "At-Koparkhairane, Mumbai"
+    },
+    {
+      "name": "Pratik Patil",
+      "location": "Pune",
+      "date": "2023-12-10T00:17",
+      "mobile": "9292939495",
+      "address": "Kharadi, Pune",
+      "id": "3MuAY4J"
+    },
+    {
+      "name": "Vinayak Patil",
+      "location": "Kolhapur",
+      "date": "2023-12-13T00:27",
+      "mobile": "9897969594",
+      "address": "Kodoli, Kolhapur",
+      "id": "XpNHpfv"
+    },
+    {
+      "name": "Shubham Pandit",
+      "location": "Satara",
+      "date": "2023-12-30T01:12",
+      "mobile": "8838839399",
+      "address": "Satararoad, Satara",
+      "id": "HWIAksX"
+    }
+  ]
+}

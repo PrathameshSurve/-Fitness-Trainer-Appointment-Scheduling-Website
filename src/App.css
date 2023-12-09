@@ -1,0 +1,43 @@
+ @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display&display=swap');
+
+.navbar{
+  background-color: #282c34;
+  flex-direction: column;
+}
+
+.fixed{
+  position: fixed;
+}
+
+.App-logo {
+  height: 10vmin;
+  margin: 5px -90px;
+}
+
+.App-logo:hover {
+background: linear-gradient(blue, green);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 3s alternate-reverse;
+  }
+}
+
+.title{
+  font-family: 'Big Shoulders Stencil Display', sans-serif;
+  color: rgba(241, 239, 186, 0.849);
+}
+
+.subtitle{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(-10deg);
+  }
+  to {
+    transform: rotate(10deg);
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Raju",
+      "location": "Kulaba",
+      "date": "10/12/2023",
+      "mobile": "9898989898",
+      "address": "At-Kualaba, Ghansoli"
+    },
+    {
+      "id": "2",
+      "name": "Jamal Billa",
+      "location": "Rahatni",
+      "date": "10/01/2023",
+      "mobile": "8888888888",
+      "address": "At-Pimple, Pune"
+    },
+    {
+      "id": "3",
+      "name": "Ram Seri",
+      "location": "Aaye",
+      "date": "20/02/2023",
+      "mobile": "9898989898",
+      "address": "At-Kridra, Rita"
+    },
+    {
+      "id": "4",
+      "name": "Harish Kundra",
+      "location": "Swargate",
+      "date": "20/07/2023",
+      "mobile": "9876678909",
+      "address": "At-Purlkal, Warna"
+    },
+    {
+      "id": "5",
+      "name": "John Sena",
+      "location": "London",
+      "date": "28/02/2023",
+      "mobile": "9393929293",
+      "address": "At-parle, London"
+    },
+    {
+      "id": "6",
+      "name": "Akshay Kumar",
+      "location": "Mumbai",
+      "date": "09/01/2023",
+      "mobile": "8899889988",
+      "address": "At-Koparkhairane, Mumbai"
+    }
+  ]
+}
