@@ -7,10 +7,13 @@ It is using Json Server for the backend operations.
 
 Home
 ![Project Screenshot 1](/my-app//src/assests/screenshots/FitnessAppointmentAppHome.png)
+
 View Appointment
 ![Project Screenshot 2](/my-app//src/assests/screenshots/FitnessAppointmentAppViewContact.png)
+
 Edit Appointment
 ![Project Screenshot 3](/my-app//src/assests/screenshots/FitnessAppointmentAppEditAppointment.png)
+
 Delete Appointment
 ![Project Screenshot 4](/my-app//src/assests/screenshots/FitnessAppointmentAppDeleteAppointment.png)
 
